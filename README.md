@@ -12,4 +12,4 @@ Full Stack Software Engineer (3+ yrs) building FinTech & Web3 apps. Tech Lead & 
 `JavaScript` `TypeScript` `Solidity` `React` `Next.js` `Node.js` `ethers.js` `Wagmi` `Hardhat` `MongoDB` `Redis` `AWS` `Docker` `Cursor` `Claude Code`
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/ashishjaiswal299) · [Portfolio](https://ashishkumarjaiswal.netlify.app) · [Email](mailto:jayswal99299@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ashishjaiswal299) · [Portfolio](https://ashish-jaiswal.vercel.app) · [Email](mailto:jayswal99299@gmail.com)
