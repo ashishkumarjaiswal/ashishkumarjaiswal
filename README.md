@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Kumar Jaiswal 👋
 
-Full Stack Software Engineer (3+ yrs) building FinTech & Web3 apps. Tech Lead & Senior Full Stack Developer at **Zoth.io**, working on a Web3 neobank managing $47M+ in TVL/AUM.
+Full Stack Software Engineer (4+ yrs) building FinTech & Web3 apps. Founding Developer at **Zoth.io**, working on a Web3 neobank managing $47M+ in TVL/AUM.
 
 - 🔭 Building **Zoth Atlas** (Web3 neobank) & **ZPayments** (cross-border payments)
 - 🌱 DeFi, liquid staking, EVM, Solidity
